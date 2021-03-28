@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=270&section=header&text=Woosub%20Lee&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=4FC1E9&height=270&section=header&text=Woosub%20Lee&fontSize=60)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -19,5 +19,7 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp  
 </p>
 </p>
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&fontSize=90)
+  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=woosub-lee&show_icons=true&theme=synthwave)](https://github.com/woosub-lee/github-readme-stats)
+  
+![footer](https://capsule-render.vercel.app/api?type=wave&color=AC92EC&height=200&section=footer&fontSize=90)  
