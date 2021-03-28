@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Kotlin-11B48A?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/tensorflow-ffdb45?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/firebase-0021ff?style=flat-square&logo=firebase&logoColor=white"/></a>&nbsp 
   <br/>
   <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Electron-008896?style=flat-square&logo=electron&logoColor=white"/></a>&nbsp
