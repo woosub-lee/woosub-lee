@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=4FC1E9&height=270&section=header&text=Woosub%20Lee&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4FC1E9&height=250&section=header&text=Woosub%20Lee&fontSize=60&fontAlign=70&fontAlignY=40)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -21,5 +21,4 @@
 </p>
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=woosub-lee&show_icons=true&theme=synthwave)](https://github.com/woosub-lee/github-readme-stats)
-  
-![footer](https://capsule-render.vercel.app/api?type=wave&color=AC92EC&height=200&section=footer&fontSize=90)  
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=2Woosub)](https://solved.ac/2Woosub)
