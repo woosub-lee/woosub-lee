@@ -20,7 +20,7 @@
 </p>
 </p>
 <p align="center">  
-  <img src="https://camo.githubusercontent.com/5d600a8d86420fffa113dc218ecb933c1d25867ebccff8fe8358f5e16263df00/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d576f6f7375622d4c656526637573746f6d5f7469746c653d576f6f7375622673686f775f69636f6e733d74727565267468656d653d73796e746877617665" alt="Anurag's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Woosub-Lee&amp;custom_title=Woosub&amp;show_icons=true&amp;theme=synthwave" style="max-width:100%;">
+  <img src="https://camo.githubusercontent.com/5d600a8d86420fffa113dc218ecb933c1d25867ebccff8fe8358f5e16263df00/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d576f6f7375622d4c656526637573746f6d5f7469746c653d576f6f7375622673686f775f69636f6e733d74727565267468656d653d73796e746877617665" alt="Anurag's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Woosub-Lee&amp;custom_title=Woosub&amp;show_icons=true&amp;theme=cobalt" style="max-width:100%;">
 </p>
 <br/>
 <br/>
