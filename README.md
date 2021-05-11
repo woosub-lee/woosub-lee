@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4FC1E9&height=250&section=header&text=Woosub%20Lee&fontSize=60&fontAlign=70&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4FC1E9&height=250&section=header&text=Woosub%20Lee&fontSize=60&fontAlign=50&fontAlignY=40)
 
   <h3 align="center">🛠 Tech Stack 🛠</h3>
   <h4 align="center"> ✨ Main Tech </h4>
