@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4FC1E9&height=250&section=header&text=Woosub%20Lee&fontSize=60&fontAlign=50&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4FC1E9&height=250&section=header&text=Woosub%20Lee&fontSize=60&fontAlign=30&fontAlignY=50)
 
   <h3 align="center">🛠 Tech Stack 🛠</h3>
   <h4 align="center"> ✨ Main Tech </h4>
@@ -17,7 +17,7 @@
   </p>
   <br/>
   <h4 align="center"> 🎇 Sub Tech </h4>
-  <p align="center"> Techs that I use at least once </p>
+  <p align="center"> Techs that I've used at least once </p>
   <p align="center">
     <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/Electron-008896?style=flat-square&logo=electron&logoColor=white"/>
