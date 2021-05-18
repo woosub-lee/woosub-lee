@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Kotlin-11B48A?style=flat-square&logo=Kotlin&logoColor=white"/>
   </p>
-  <br/>
   <h4 align="center"> 📚 Learning Tech </h4>
   <p align="center"> Techs that I'm learning now </p>
   <p align="center">
@@ -15,7 +14,6 @@
     <img src="https://img.shields.io/badge/tensorflow-ffdb45?style=flat-square&logo=tensorflow&logoColor=white"/> 
     <img src="https://img.shields.io/badge/firebase-0021ff?style=flat-square&logo=firebase&logoColor=white"/>  
   </p>
-  <br/>
   <h4 align="center"> 🎇 Sub Tech </h4>
   <p align="center"> Techs that I've used at least once </p>
   <p align="center">
