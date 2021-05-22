@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4FC1E9&height=250&section=header)
 <h1>📣 안녕하세요!</h1>
 <h2>👩‍💻 나를 소개하자면..</h2>  
 
