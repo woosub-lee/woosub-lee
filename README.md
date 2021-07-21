@@ -1,5 +1,5 @@
 <h1>📣 Hi!</h1>
-<h2>👩‍💻 나를 소개하자면..</h2>  
+<h2>👩‍💻 It's me!</h2>  
 
 **편리한 서비스를 제공해 주는** 안드로이드 개발자가 되는 것이 목표에요.
 ### 🛠 Tech Stack 🛠
@@ -15,14 +15,6 @@
 <br/>
 <img src="https://img.shields.io/badge/tensorflow-ffdb45?style=flat-square&logo=tensorflow&logoColor=white"/> 
 <img src="https://img.shields.io/badge/firebase-0021ff?style=flat-square&logo=firebase&logoColor=white"/>   
-#### 🎇 Sub Tech  
-**제가 써봤던 기술들이에요!**  
-<br/>
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Electron-008896?style=flat-square&logo=electron&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-11B48A?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>  
 
 <h2>🧾My stats</h2> 
 <img src="https://github-readme-stats.vercel.app/api?username=Woosub-Lee&amp;custom_title=Woosub&amp;show_icons=true&amp;theme=cobalt" style="max-width:100%;">
